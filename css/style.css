@@ -1,0 +1,400 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Inspiration&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Geostar+Fill&display=swap');
+.asosiy1{
+	background-color: hsl(0deg 100% 8%);
+	width: 100%;
+	height: 700px;
+	display: inline-block;  
+}
+.kantener0{
+	width: 90%;
+	margin: auto;
+	display: inline-block;
+	float: left;
+}
+.kantener{
+	width: 30%;
+	float: left;
+	display: inline-block;
+	/*margin-left: 150px;*/
+	/*margin: auto;*/
+}
+.shirift1{
+	font-family: 'Rock 3D', cursive;
+	color: wheat;
+	line-height: 0.9;
+}
+.shirift2{
+	padding-top: 40px;
+	margin-left: 50px;
+}
+.kantener2{
+	width: 69%;
+	float: left;
+	display: inline-block;
+}
+.minyu a{
+	color: wheat;
+text-decoration: none;
+padding: 20px;
+}
+.minyu{
+	margin-top: 60px;
+}
+.minyu a:hover{
+	background-color: gray;
+	border-radius: 10px;
+	height: 20px;
+	
+}
+.kantener3{
+	display: inline-block;
+	width: 30%;
+	float: left;
+}
+
+.shirift3{
+	color: wheat;
+	padding: 150px 0px 100px 150px;
+}
+.shirift3 i{
+	color: wheat;
+	margin: -70px;
+	font-size: 50px;
+}
+.shirift3 p{
+
+}
+.shirift3 h5 a{
+	text-decoration: none;
+	color: wheat;
+	padding: 15px;
+}
+.shirift3 h5 a:hover{
+	background-color: gray;
+	border-radius: 10px;
+	width: 40%;
+	
+}
+.bordur{
+	border: 10px;
+}
+.kantener4{
+	display: inline-block;
+	width: 69px;
+	float: left;
+}
+.kantener4 i{
+	padding: 100px 0px 0px 550px;
+	color: wheat;
+	font-size: 50px;
+}
+.bordur{
+	border: 25px solid hsl(0deg 0% 42%);
+	border-radius: 100%;
+	width: 480%;
+	height: 340px;
+	background-color: hsl(0deg 0% 20%);
+    padding: 30px;
+    margin: 50px 0px 0px 200px;
+}
+.kantener4 h2{
+	padding: 100px;
+	padding-top: 0px;
+	color: wheat;
+}
+.asosiy2{
+	margin-top: -10px;
+	width: 100%;
+	height: 1200px;
+	background-color: hsl(359deg 100% 20%);
+}
+.kantener5{
+	width: 99%;
+	margin: auto;
+	float: left;
+}
+.bordur1{
+    width: 20%;
+    float: left;
+    background-color: wheat;
+    border: 2px solid black;
+    width: 20%;
+    height: 350px;
+    margin: 100px 0px 0px 50px;
+}
+.bordur2{
+	border: 1px solid black;
+	width: 50%;
+	height: 125px;
+	margin: 40px 0px 0px 65px;
+	background-color: hsl(0deg 100% 8%);
+}
+.bordur1:hover{
+	transition-duration: 1s;
+    background-color:#76c38f;
+}
+.bordur1:hover .bordur2{
+	transition-duration: 2s;
+	background-color: wheat;
+}
+
+.olma{
+	color: wheat;
+	padding: 50px 0px 20px 25px;
+}
+.bordur1:hover .olma{
+	transition-duration: 2s;
+	color: black;
+}
+.shirift4{
+	padding: 10px 10px 10px 60px;
+}
+.shirift5{
+	padding: 0px 20px 20px 80px;
+	line-height: 0.2;
+}
+.bordur1:hover .shirift4{
+	color: wheat;
+	transition-duration: 2s;
+}
+.bordur1:hover .shirift5{
+	color: wheat;
+	transition-duration: 2s;
+}
+.shirift6{
+	text-align: center;
+	padding: 0px 20px 0px 20px;
+}
+.bordur1:hover .shirift6{
+	color: wheat;
+	transition-duration: 2s;
+}
+.kantener5{
+	position: relative;
+}
+.bordur3{
+	border: 1px solid black;
+	border-radius: -10%;
+	width: 80%;
+	margin: 50px 0px 0px 140px;
+	padding: 1px;
+	background-color: hsl(334deg 7% 19%);
+}
+.work{
+	color: wheat;
+	position: absolute;
+	top: 25px;
+	padding: 0px 0px 0px 530px;
+
+}
+.work h1{
+	background-color: hsl(334deg 7% 19%);
+	padding: 5px 20px;
+	border-radius: 10px;
+}
+.kantener7{
+	width: 20;
+	float: left;
+	background-color: hsl(0deg 0% 21%);
+	border: 10px solid wheat;
+    width: 28%;
+    height: 250px;
+    margin: 50px 0px 0px 38px;
+}
+.kantener7:hover{
+    border: 10px solid hsl(138deg 13% 31%);
+    transition-duration: 2s;
+}
+.bordur5{
+    color: wheat;
+    text-align: center;
+    padding-top: 100px;
+}
+.shirift7{
+color: wheat;
+background-color: black;
+margin-top: 110px;
+}
+.shirift7 h3{
+	text-align: center;
+}
+.kantener7:hover .shirift7{
+	background-color: hsl(0deg 0% 21%);
+	background-color: hsl(0deg 0% 21%);
+	color: hsl(0deg 0% 21%);
+	transition-duration: 2s;
+}
+.asosiy3{
+	float: left;
+	width: 100%;
+	height: 500px;
+	margin: auto;
+	background-color: hsl(0deg 0% 19%);
+}
+.kantener8{
+    width: 99%;
+    margin: auto;
+    float: left;
+}
+.shirift8{
+	width: 25%;
+	float: left;
+}
+.shirift9{
+	line-height: 1.5;
+}
+.shirift9 h1{
+	color: wheat;
+	font-family: 'Geostar Fill', cursive;
+	text-align: center;
+    padding: 30px;
+    line-height: 2.2;
+}
+.shirift9 h2{
+	color: hsl(140deg 14% 33%);
+	font-family: 'Geostar Fill', cursive;
+	text-align: inherit;
+	padding-left: 85px;
+	line-height: 2.2;
+}
+.admen{
+	color: gray;
+	font-family: 'Geostar Fill', cursive;
+	text-align: inherit;
+	padding-left: 85px;
+	line-height: 2.2;
+}
+.shirift9 h6{
+	color: hsl(140deg 14% 33%);
+	line-height: 2.2;
+}
+.shirift9 h5{
+	text-align: inherit;
+	padding-left: 85px;
+	line-height: 2.2;
+}
+.shirift9 p{
+	text-align: inherit;
+	padding-left: 85px;
+	color: silver;
+}
+.shirift9 a{
+	display: inline-block;
+	text-decoration: none;
+	color:  hsl(140deg 14% 33%);
+	margin-left: 85px;
+	line-height: 2.8;
+
+}
+.shirift9 a:hover{
+	background-color: wheat;
+	padding: 0px 15px;
+	border-radius: 10px;
+}
+.shirift10{
+	color: wheat;
+	font-family: 'Geostar Fill', cursive;
+	text-align: center;
+    padding: 30px;
+    line-height: 2.5;
+    text-align: inherit;
+}
+.shirift10 a{
+	text-decoration: none;
+	color: gray;
+	padding-top: 20px;
+}
+.bordur6{
+	border-bottom: 1px solid; gray;
+}
+.shirift10 a:hover{
+    color: green;
+    border-radius: 15px;
+    padding: 5px;
+}
+.shirift11{
+	color: wheat;
+	text-align: center;
+    padding: 30px;
+    text-align: inherit;
+}
+.shirift11 h1{
+	color: wheat;
+	font-family: 'Geostar Fill', cursive;
+	line-height: 2.5;
+}
+.span{
+	color: hsl(140deg 14% 33%);
+}
+.shirift11 p{
+	line-height: 1.7;
+}
+.shirift12{
+	color: wheat;
+	text-align: center;
+    padding: 50px;
+    text-align: inherit;
+}
+.shirift12 h1{
+    color: wheat;
+	font-family: 'Geostar Fill', cursive;
+	line-height: -5;
+}
+#name{
+	color: wheat;
+	background-color: black;
+	padding: 10px 25px;
+	border: none;
+	border-radius: 10px;
+	margin: 10px;
+}
+#email{
+	color: wheat;
+	background-color: black;
+	padding: 10px 25px;
+	border: none;
+	border-radius: 10px;
+	margin: 10px;
+}
+.message{
+	color: wheat;
+	background-color: black;
+	border: none;
+	border-radius: 10px;
+	margin: 10px;
+}
+.message1{
+	background-color: silver;
+	border-radius: 10px;
+	padding: 8px;
+	border: none;
+	margin: 10px;
+}
+.asosiy4{
+	float: left;
+	width: 100%;
+	height: 50px;
+	background-color: hsl(0deg 0% 19%);
+	border-top: 2px solid black;
+}
+.oxirgi1{
+	float: left;
+	width: 50%;
+}
+.oxirgi2{
+	float: left;
+	width: 49%;
+}
+.shirift98{
+	color: wheat;
+	padding: 25px 0px 0px 150px;
+}
+.shirift99{
+    color: wheat;
+	padding: 25px 0px 0px 300px;
+}
